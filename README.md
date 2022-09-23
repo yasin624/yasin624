@@ -59,4 +59,4 @@
 
 [istegram]: http://instagram.com/yasin.6247?utm_source=qr
 [linkedin]: https://www.linkedin.com/in/yasin-yalçin-45a901219
-[gmail]: https://mail.google.com/mail/u/0/#search/yasin.y6534%40gmail.com?compose=new
+[gmail]: https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBnqDdfHjTfhlCfDsGRxjqGFQWmJCWrVCLSmppNqVMKsNmwvtKDFTNgskKvFwfsFMXsFHxL
