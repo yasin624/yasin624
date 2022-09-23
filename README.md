@@ -8,7 +8,7 @@
 
 <h2 style="font-weight: bold;">I am  a Artifical intelicint programmer</h2>
 
-<h4>I make AI algoritms , I make generally Deep learning , images procces , obje detector and image classification like algoritms , ı like to write sofware</h4>
+<h4>I make AI algoritms , I make generally Deep learning , images procces , obje detector and image classification like algoritms , I like to write sofware</h4>
 
 #
 <br/>
