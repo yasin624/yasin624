@@ -12,7 +12,7 @@
 
 ##  I am  a Artifical intelicint programmer
 
-### I make AI algoritms , I make generally Deep learning , images procces , obje detector and image classification like algoritms , I like to write sofware
+### I make AI algoritms . I make generally Deep learning , image procces , obje detector and image classification like algoritms . I like to write sofware
 
 <font color="#5BB318"> `< code >`  Clear Code , Clear World `< /code >` </font>
 
