@@ -54,5 +54,4 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin624&layout=compact" >
 
 [istegram]: http://instagram.com/yasin.6247?utm_source=qr
-[twitter]: https://twitter.com/DidemKkkaraasl1
-[linkedin]: https://www.linkedin.com/in/didem-k%C3%BCc%C3%BCkkaraaslan-2a2a23140/
+[linkedin]: https://www.linkedin.com/in/yasin-yalçin-45a901219
