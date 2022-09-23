@@ -5,7 +5,7 @@
   </img>
   
   
-# HI there , I'm Yasin </font></h1>
+# Hi Ithere , I'm Yasin </font></h1>
 
 <br/>
 <br/>
@@ -20,7 +20,7 @@
 
 
 [<img  width="22" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=2147483647&v=beta&t=fi3iyTgSAogCMgSmAy_DeyogJxzo38RVBK0mcEuSpc8" align="left" />][linkedin]
-[<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" align="left" />][youtube]
+[<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" align="left" />][istegram]
 
 <br />
 <br />
@@ -53,6 +53,6 @@
 <p align="left">:bulb:  Most Used Languages</p>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin624&layout=compact" >
 
-[youtube]: https://www.youtube.com/c/codingwithdidem
+[istegram]: http://instagram.com/yasin.6247?utm_source=qr
 [twitter]: https://twitter.com/DidemKkkaraasl1
 [linkedin]: https://www.linkedin.com/in/didem-k%C3%BCc%C3%BCkkaraaslan-2a2a23140/
