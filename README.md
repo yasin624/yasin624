@@ -7,13 +7,13 @@
     align="right">
   </img>
 
-<h1 style="font-weight: bold;"><font color="#5BB318"> Hello there , I'm Yasin </font></h1>
+<h1 style="font-weight:bold;"><font color="#5BB318"> Hello there , I'm Yasin </font></h1>
 
 ##  I am  a Artifical intelicint programmer
 
 ### I make AI algoritms , I make generally Deep learning , images procces , obje detector and image classification like algoritms , I like to write sofware
 
-<font color="aqua"> `< code >`  clear code , clear world `< /code >` </font>
+<font color="#5BB318"> `< code >`  clear code , clear world `< /code >` </font>
 
 ### Reach out to me
 
@@ -34,25 +34,16 @@
 <br />
 <br />
 
-## Latest Youtube Videos
+#
+
+## Latest My programs' Videos
 
 <!-- YOUTUBE:START -->
-- [Create your portfolio with a visual builder | Makeswift](https://www.youtube.com/watch?v=aqkeoZ9J0P8)
-- [Yazılım Mühendisliğinin Kötü Yönleri](https://www.youtube.com/watch?v=E-pO85iTiKI)
-- [GraphQL Öğrenelim &lpar; Apollo Server &rpar;](https://www.youtube.com/watch?v=Fy8acWglcVc)
-- [Contentrain ile Portfolyo Uygulaması | Git-Based Headless CMS](https://www.youtube.com/watch?v=16h_kXiwGcA)
-- [İngilizce Kelime Öğrenelim | Finding Purpose Novel  &lpar;1&rpar;](https://www.youtube.com/watch?v=O3kjBgCc7Tc)
-<!-- YOUTUBE:END -->
+- [complex image  drawing program with hand detection](https://www.linkedin.com/feed/update/urn:li:activity:6915757791588593664/)
 
-## Latest Blog Posts
+- [convert image to ascii](https://www.linkedin.com/feed/update/urn:li:activity:6955496752086953984/)
+- [self driving car game &lpar; image classification &rpar;](https://www.linkedin.com/feed/update/urn:li:activity:6944356950297972737/)
 
-<!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-<!-- BLOG-POST-LIST:END -->
 
 <br />
 
