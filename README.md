@@ -8,7 +8,7 @@
   </img>
 
 <h1 style="font-weight:bold;"><font color="#5BB318"> Hello there , I'm Yasin </font></h1>
-
+<br/>
 ##  I am  a Artifical intelicint programmer
 
 ### I make AI algoritms , I make generally Deep learning , images procces , obje detector and image classification like algoritms , I like to write sofware
