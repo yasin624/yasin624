@@ -51,7 +51,7 @@
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=yasin624&theme=radical" >
 
 <p align="left">:bulb:  Most Used Languages</p>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin624&layout=compact" >
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin624&layout=compact&theme=radical" >
 
 [istegram]: http://instagram.com/yasin.6247?utm_source=qr
 [linkedin]: https://www.linkedin.com/in/yasin-yalçin-45a901219
