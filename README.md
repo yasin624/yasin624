@@ -59,15 +59,11 @@
 
 <br />
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=yasin624&theme=radical" >
-</details>
+<summary align="right">:bulb: Github Stats</summary>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yasin624&theme=radical" >
 
-<details>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin624&layout=Dome" >
-</details>
+<summary align="left">:bulb:  Most Used Languages</summary>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin624&layout=compact" >
 
 [youtube]: https://www.youtube.com/c/codingwithdidem
 [twitter]: https://twitter.com/DidemKkkaraasl1
