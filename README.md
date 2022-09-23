@@ -1,22 +1,19 @@
-<video
+<img
     position="right"
     src="https://dms.licdn.com/playlist/C4E05AQE0X_d38wVSeA/mp4-720p-30fp-crf28/0/1648845168032?e=1664550000&v=beta&t=w0-RakYixH1gMpou_CSk8PCyMEvC59Hk5ESIC2a1P5s"
     preload="auto"
     width="50%"
     heigth="200"
-    align="right"
-    controls
-    autoplay="true"
-    loop>
-  </video>
+    align="right">
+  </img>
 
-<h1 style="color:#5BB318 ;font-weight: bold;"> Hello there , I'm Yasin </h1>
+<h1 style="font-weight: bold;"><font color="#5BB318"> Hello there , I'm Yasin </font></h1>
 
 ##  I am  a Artifical intelicint programmer
 
-### I make AI algoritms , I make generally Deep learning , images procces , obje detector and image classification like algoritms , ı like to write sofware
+### I make AI algoritms , I make generally Deep learning , images procces , obje detector and image classification like algoritms , I like to write sofware
 
-<font color="pink"> `< code >`  clear code , clear world `< /code >` </font>
+<font color="aqua"> `< code >`  clear code , clear world `< /code >` </font>
 
 ### Reach out to me
 
