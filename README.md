@@ -1,13 +1,12 @@
 <img
-    position="right"
     src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47qfawh651v3e8sjk13sn295xviceft7kwql2esth8&rid=200w.webp&ct=g"
-    preload="auto"
     width="50%"
-    heigth="200"
     align="right">
   </img>
+  
+  
+# Hello there , I'm Yasin </font></h1>
 
-<h1 style="font-weight:bold;"><font color="#5BB318"> Hello there , I'm Yasin </font></h1>
 <br/>
 
 
