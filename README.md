@@ -8,7 +8,7 @@
 
 <h2 style="font-weight: bold;">I am  a Artifical intelicint programmer</h2>
 
-<h4>I make AI algoritms , I make generally Deep learning , images procces , obje detector and image classification like algoritms , I like to write sofware</h4>
+<h4>I make AI algoritms , I make generally Deep learning , images procces , obje detector and image classification like algoritms , ı like to write sofware</h4>
 
 #
 <br/>
@@ -17,17 +17,19 @@
 
 
 <div class="reach_out_to_me">
-[<img
+[
+    <img
 width="7%"
 align="left"
-src ="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=2147483647&v=beta&t=fi3iyTgSAogCMgSmAy_DeyogJxzo38RVBK0mcEuSpc8" / >
-] [linkedin]
+src ="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=2147483647&v=beta&t=fi3iyTgSAogCMgSmAy_DeyogJxzo38RVBK0mcEuSpc8"  >
+</img>] [linkedin]
 
-[<img
+[
+<img
 width="7%"
 align="left"
-src ="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png"  />
-][instegram]
+src ="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png"  >
+</img>][istegram]
 
 [linkedin] : https://www.linkedin.com/in/yasin-yal%C3%A7in-45a901219/
 [instegram] : https://www.instagram.com/yasin.6247/
@@ -40,6 +42,7 @@ src ="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.sv
 <div class="tech_i_user">
 
 ## Tech I User
+
 
 <img
 width="7%"
