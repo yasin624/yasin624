@@ -10,7 +10,7 @@
 <br/>
 
 
-##  I Am  A Artifical Intelicint Programmer
+##  I'm  Artifical Intelicint Programmer
 
 ### I make AI algoritms . I make generally Deep learning , image procces , obje detector and image classification like algoritms . I like to write sofware
 
