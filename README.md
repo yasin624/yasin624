@@ -41,7 +41,6 @@ src ="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.sv
 
 ## Tech I User
 
-
 <img
 width="7%"
 align="left"
