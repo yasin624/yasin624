@@ -1,6 +1,6 @@
 <img
     position="right"
-    src="https://dms.licdn.com/playlist/C4E05AQE0X_d38wVSeA/mp4-720p-30fp-crf28/0/1648845168032?e=1664550000&v=beta&t=w0-RakYixH1gMpou_CSk8PCyMEvC59Hk5ESIC2a1P5s"
+    src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47qfawh651v3e8sjk13sn295xviceft7kwql2esth8&rid=200w.webp&ct=g"
     preload="auto"
     width="50%"
     heigth="200"
