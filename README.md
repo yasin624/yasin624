@@ -5,16 +5,16 @@
   </img>
   
   
-# Hello there , I'm Yasin </font></h1>
+# HI there , I'm Yasin </font></h1>
 
 <br/>
-
+<br/>
 
 ##  I am  a Artifical intelicint programmer
 
 ### I make AI algoritms , I make generally Deep learning , images procces , obje detector and image classification like algoritms , I like to write sofware
 
-<font color="#5BB318"> `< code >`  clear code , clear world `< /code >` </font>
+<font color="#5BB318"> `< code >`  Clear Code , Clear World `< /code >` </font>
 
 ### Reach out to me
 
