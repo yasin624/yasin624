@@ -57,6 +57,7 @@
 <p align="left">:bulb:  Most Used Languages</p>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin624&layout=compact&theme=radical" >
 
+
 [istegram]: http://instagram.com/yasin.6247?utm_source=qr
 [linkedin]: https://www.linkedin.com/in/yasin-yalçin-45a901219
 [gmail]: https://mail.google.com/mail/u/0/#search/yasin.y6534@gmail.com
