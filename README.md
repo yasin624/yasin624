@@ -6,7 +6,7 @@
     align="right">
   </img>
 -->
-<iframe width="50%" height="500" src="https://cybermap.kaspersky.com/tr/widget/dynamic/dark" frameborder="0">
+<iframe width="500" height="500" src="https://cybermap.kaspersky.com/tr/widget/dynamic/dark" frameborder="0">
 </iframe>
 # Hi Ithere , I'm Yasin </font></h1>
 
