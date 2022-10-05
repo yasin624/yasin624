@@ -6,7 +6,7 @@
     align="right">
   </img>
 
-# Hi Ithere , I'm Yasin </font></h1>
+# Hi There , I'm Yasin </font></h1>
 
 <br/>
 
