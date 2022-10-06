@@ -26,7 +26,7 @@
 [<img  width="22" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=2147483647&v=beta&t=fi3iyTgSAogCMgSmAy_DeyogJxzo38RVBK0mcEuSpc8" align="left" />][linkedin]
 [<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" align="left" />][istegram]
 [<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" align="left" />][gmail]
-[<img  width="22" src="adres/profile.png" align="left" />]
+<img  width="22" src="adres/profile.png" align="left" />
     
     
 <br />
