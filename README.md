@@ -26,7 +26,7 @@
 [<img  width="22" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=2147483647&v=beta&t=fi3iyTgSAogCMgSmAy_DeyogJxzo38RVBK0mcEuSpc8" align="left" />][linkedin]
 [<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" align="left" />][istegram]
 [<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" align="left" />][gmail]
-    
+[<img  width="22" src="adres/profile.png" align="left" />][profile]
 <br />
 <br />
 
@@ -62,3 +62,4 @@
 [istegram]: http://instagram.com/yasin.6247?utm_source=qr
 [linkedin]: https://www.linkedin.com/in/yasin-yalçin-45a901219
 [gmail]: https://mail.google.com/mail/u/0/#search/yasin.y6534@gmail.com
+[profile] : ./adres/profile.png
