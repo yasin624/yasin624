@@ -27,6 +27,8 @@
 [<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" align="left" />][istegram]
 [<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" align="left" />][gmail]
 [<img  width="22" src="adres/profile.png" align="left" />][profile]
+    
+    
 <br />
 <br />
 
