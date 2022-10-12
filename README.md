@@ -58,7 +58,7 @@
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=yasin624&theme=radical" >
 
 <p align="left">:bulb:  Most Used Languages</p>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/username=yasin624&show_icons=true&theme=radical" >
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/?username=yasin624&show_icons=true&theme=radical" >
 
 
 [istegram]: http://instagram.com/yasin.6247?utm_source=qr
