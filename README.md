@@ -1,10 +1,15 @@
 
 
+<div width="50%"
+    align="right"
+    class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="yasin-yalçin-45a901219" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/yasin-yal%C3%A7in-45a901219?trk=profile-badge">YASİN YALÇIN</a></div>
+
+<!-- 
 <img
     src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47qfawh651v3e8sjk13sn295xviceft7kwql2esth8&rid=200w.webp&ct=g"
     width="50%"
     align="right">
-  </img>
+  </img>   -->
 
 # Hi There , I'm Yasin </font></h1>
 
