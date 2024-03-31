@@ -7,13 +7,13 @@
 
 
 
-<h1>Hi There , I'm Yasin </h1>
+<h1 width="48%">Hi There , I'm Yasin </h1>
 
 
 <br/>
 
 
-<h2>  I'm  Artifical Intelicint Programmer</h2>
+<h2 width="48%">  I'm  Artifical Intelicint Programmer</h2>
 
 ### I make AI algoritms . I make generally Deep learning , image procces , obje detector and image classification like algoritms . I like to write sofware
 
