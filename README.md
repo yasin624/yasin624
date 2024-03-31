@@ -1,19 +1,21 @@
-
-<img
+<div>
+<div width="48%"
+    align="right"><img
     src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47qfawh651v3e8sjk13sn295xviceft7kwql2esth8&rid=200w.webp&ct=g"
-    width="50%"
-    align="right">
-  </img>   
+    ></img> </div>
+    
 
-
-
-<h1 width="48%">Hi There , I'm Yasin </h1>
-
+<div width="48%"
+    align="left">
+<h1 >Hi There , I'm Yasin </h1>
 
 <br/>
 
+<h2 >  I'm  Artifical Intelicint Programmer</h2>
 
-<h2 width="48%">  I'm  Artifical Intelicint Programmer</h2>
+</div></div>
+
+
 
 ### I make AI algoritms . I make generally Deep learning , image procces , obje detector and image classification like algoritms . I like to write sofware
 
