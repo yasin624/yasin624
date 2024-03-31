@@ -1,19 +1,18 @@
 <div>
-<div width="48%"
-    align="right"><img
+  <div width="48%"
+    align="right"><img width="48%" align="right"
     src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47qfawh651v3e8sjk13sn295xviceft7kwql2esth8&rid=200w.webp&ct=g"
-    ></img> </div>
+    ></img> 
+  </div>
     
 
-<div width="48%"
-    align="left">
-<h1 >Hi There , I'm Yasin </h1>
+  <div width="48%" align="left">
+    <h1 width="48%" align="left">Hi There , I'm Yasin </h1>
+    <br/>
+    <h2 width="48%" align="left">  I'm  Artifical Intelicint Programmer</h2>
 
-<br/>
-
-<h2 >  I'm  Artifical Intelicint Programmer</h2>
-
-</div></div>
+  </div>
+</div>
 
 
 
