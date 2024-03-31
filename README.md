@@ -5,12 +5,15 @@
     align="right">
   </img>   
 
-# Hi There , I'm Yasin </font></h1>
+
+
+<h1>Hi There , I'm Yasin </h1>
+
 
 <br/>
 
 
-##  I'm  Artifical Intelicint Programmer
+<h2>  I'm  Artifical Intelicint Programmer</h2>
 
 ### I make AI algoritms . I make generally Deep learning , image procces , obje detector and image classification like algoritms . I like to write sofware
 
@@ -51,7 +54,7 @@
 - [self driving car game &lpar; image classification &rpar;](https://www.linkedin.com/feed/update/urn:li:activity:6944356950297972737/)
 
 
-<br />
+<br/>
 
 <p align="right">:bulb: Github Stats</p>
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/?username=yasin624&show_icons=true&theme=radical" >
