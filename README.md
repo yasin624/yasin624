@@ -7,7 +7,7 @@
     
 
   <div width="48%" align="left">
-    <h1 width="48%" align="left">Hi There , I'm Yasin </h1>
+    <h1  width="5px" align="left">Hi There , I'm Yasin </h1>
     <br/>
     <h2 width="48%" align="left">  I'm  Artifical Intelicint Programmer</h2>
 
@@ -41,6 +41,16 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="25" height="25" />
 <img align="left" src="https://avatars.githubusercontent.com/u/97764156?v=10" width="25" height="25" />
+<img align="left" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4" width="25" height="25" />
+<img align="left" src="https://avatars.githubusercontent.com/u/159455?s=200&v=4" width="25" height="25" />
+
+<img align="left" src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="25" height="25" />
+
+<img align="left" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" width="25" height="25" />
+
+<img align="left" src="https://avatars.githubusercontent.com/u/483444?s=200&v=4" width="25" height="25" />
+
 
 <br />
 <br />
@@ -51,9 +61,15 @@
 <!-- YOUTUBE:START -->
 - [complex image  drawing program with hand detection](https://www.linkedin.com/feed/update/urn:li:activity:6915757791588593664/)
 
-- [convert image to ascii](https://www.linkedin.com/feed/update/urn:li:activity:6955496752086953984/)
+
 - [self driving car game &lpar; image classification &rpar;](https://www.linkedin.com/feed/update/urn:li:activity:6944356950297972737/)
 
+
+- [Reinforcement_Learning_SnakeGame](https://www.linkedin.com/feed/update/urn:li:activity:7181701374299037696/)
+
+- [LEARN_NEW_LANGUAGE](https://www.linkedin.com/feed/update/urn:li:activity:7081648123550326784/)
+
+- [convert image to ascii](https://www.linkedin.com/feed/update/urn:li:activity:6955496752086953984/)
 
 <br/>
 
